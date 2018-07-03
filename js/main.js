@@ -75,7 +75,7 @@ $(document).ready(function(){
                afirstchild=1;
                 $(this).css("display", "none");
             }
-            else if (afirstchild==1){
+             if (afirstchild==1){
                 $(this).css("display", "flex");
                 afirstchild=0;
             }
