@@ -1372,12 +1372,14 @@ font-size: 14px;
 .container-main-wrapper .footer-div span{
 font-size: 14px;
 }
+    .content-date .content-background{
+        width: 100%;
+    }
 /* container-main-wrapper end */
 
-/* content-date start */
-.content-date .content-background{
-width: 100%;
-}
+/* content-date:END */
+
+    /*paragraph-section: START*/
 .paragraph-background{
 width: 100%;
 }
@@ -1389,6 +1391,7 @@ font-size: 18px;
 width: 100%;
 padding: 0px;
 }
+/*paragraph-section:END*/
 
 /* two-container start */
 .two-container{
@@ -1422,9 +1425,9 @@ width: 100%;
 .image-contain{
 width: 100%;
 }
-/* two-container end */
+/* two-container:END*/
 
-/* three-container start */
+/* three-container:START*/
 .three-container{
 width: 100%;
 height: auto;
@@ -1483,7 +1486,7 @@ font-size: 8px;
 .list-course{
 padding: 0 0 100px 0px;
 }
-/* three-container end */
+/* three-container:END*/
 
 .empty-area{
 width: 100%;

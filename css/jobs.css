@@ -1601,10 +1601,6 @@ font-size:38px;
 
 /* content wrapper end */
 
-
-
-
-
 /* footer start */
 .empty-area{
 width:auto;
@@ -1750,6 +1746,7 @@ width:100%;
 
 @media (max-width: 767px) and (min-width: 685px) {
 /* header start */
+
 .hero-img{
 width:100%;
 
